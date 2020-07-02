@@ -7,3 +7,13 @@
 
 *.log
 .DS_Store
+
+##----------vscode----------
+.project
+.settings
+.vscode
+.classpath
+
+/target
+
+*/target/
