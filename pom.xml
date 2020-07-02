@@ -11,6 +11,7 @@
     <modules>
         <module>chains</module>
         <module>print</module>
+        <module>bridge</module>
     </modules>
 
 
