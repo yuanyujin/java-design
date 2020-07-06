@@ -12,6 +12,7 @@
         <module>chains</module>
         <module>bridge</module>
         <module>singleton</module>
+        <module>iterator</module>
     </modules>
 
 
