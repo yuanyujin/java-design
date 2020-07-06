@@ -15,6 +15,7 @@
         <module>iterator</module>
         <module>command</module>
         <module>observer</module>
+        <module>template-method</module>
     </modules>
 
 
