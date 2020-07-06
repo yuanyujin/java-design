@@ -13,6 +13,8 @@
         <module>bridge</module>
         <module>singleton</module>
         <module>iterator</module>
+        <module>command</module>
+        <module>observer</module>
     </modules>
 
 
