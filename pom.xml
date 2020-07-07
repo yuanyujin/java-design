@@ -16,6 +16,7 @@
         <module>command</module>
         <module>observer</module>
         <module>template-method</module>
+        <module>builder</module>
     </modules>
 
 
