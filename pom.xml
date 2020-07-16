@@ -11,12 +11,18 @@
     <modules>
         <module>chains</module>
         <module>bridge</module>
-        <module>singleton</module>
         <module>iterator</module>
         <module>command</module>
         <module>observer</module>
         <module>template-method</module>
         <module>builder</module>
+        <module>strategy</module>
+        <module>singleton</module>
+        <module>prototype</module>
+        <module>factory</module>
+        <module>abstractfactory</module>
+        <module>factorymethod</module>
+        <module>composite</module>
     </modules>
 
 
