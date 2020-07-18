@@ -23,6 +23,8 @@
         <module>abstractfactory</module>
         <module>factorymethod</module>
         <module>composite</module>
+        <module>decorator</module>
+        <module>adapter</module>
     </modules>
 
 
